@@ -19,7 +19,7 @@
  <img src = 'https://github.com/madike10/madike10/blob/main/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/madike10/madike10/blob/main/images/docker.svg' width='30'/>  <img src = 'https://github.com/madike10/madike10/blob/main/images/vagrant.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/Kubernetes.svg' height='40'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/Springboot.png' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/react.svg' width='33'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/linux.svg' width='33'/>
+ <img src = 'https://github.com/madike10/madike10/blob/main/images/docker.svg' width='30'/>  <img src = 'https://github.com/madike10/madike10/blob/main/images/vagrant.png' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/Kubernetes.svg' height='40'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/springboot.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/react.svg' width='33'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/linux.svg' width='33'/>
  
  ## Who am I?
  ```java
