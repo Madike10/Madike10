@@ -1,33 +1,133 @@
-<h3 align="center">Full Stack Dev</h3>
+## Hey, [Madike Yade here!](http://madike.vercel.app)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
+<h1>Welcome to my humble abode in the Digital World..</h1> 
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+[![LinkedIn Badge](https://img.shields.io/badge/-MadeKeyCode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madike-yade/)](https://www.linkedin.com/in/madike-yade/) [![Gmail Badge](https://img.shields.io/badge/-madickeyade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madickeyade@gmail.com)](mailto:madickeyade@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madike10&label=Profile%20views&color=0e75b6&style=flat" alt="madike10" /> </p>
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madike10" alt="madike10" /></a> </p>
+## :computer: Technologies I Love
+* DevOps 
+* Frontend and Backend Web Development
 
-<p align="left"> <a href="https://twitter.com/@madickeyade" target="blank"><img src="https://img.shields.io/twitter/follow/@madickeyade?logo=twitter&style=for-the-badge" alt="@madickeyade" /></a> </p>
+<img src = "">
 
-- 🔭 I’m currently working on **Orchestrator**
+## Programming Languages
+<img src = 'https://github.com/madike10/madike10/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/golang.svg' width='30'/>  <img src = 'https://github.com/madike10/madike10/blob/master/images/html.svg' width='30'/> <img src='https://github.com/madike10/madike10/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/madike10/madike10/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/madike10/madike10/blob/master/images/sql.svg' width='30'/> 
+ 
+ ## Technologies I Use
+ <img src = 'https://github.com/madike10/madike10/blob/master/images/docker.svg' width='30'/>  <img src = 'https://github.com/madike10/madike10/blob/master/images/vagran.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/kubernetes.svg' height='40'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/springboot.png' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/react.svg' width='33'/> <img src = 'https://github.com/madike10/madike10/blob/master/images/linux.svg' width='33'/>
+ 
+ ## Who am I?
+ ```java
+ import java.util.List;
 
-- 🌱 I’m currently learning **Spring Boot, Angular, ExpressJs**
+public class MadikeYade {
 
-- 👯 I’m looking to collaborate on **DevOps solution**
+    private String user = "Madike Yade";
+    private String currentWork = "Writing code & Automating the planet 🌍";
+    
+    private List<String> hobbies = List.of(
+            "🎮 Gaming (ranked mode only)",
+            "⚽ Playing football in Dakar heat",
+            "🔥 Watching Anime (training arc mentality)",
+            "🌙 Being up all night chasing THAT one bug..."
+    );
 
-- 🤝 I’m looking for help with **Kubernetes**
+    public String getCity() {
+        return "Dakar, Senegal 🇸🇳";
+    }
 
-- 📫 How to reach me **madickeyade@gmail.com**
+    public void ambitions() {
+        writeCode();
+        automateStuff();
+        buildCoolStuff();
+        conquerTheDevWorld();
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@madickeyade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@madickeyade" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/madike-yade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madike-yade" height="30" width="40" /></a>
-</p>
+    private void writeCode() {
+        System.out.println("💻 Writing clean, scalable & powerful code...");
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+    private void automateStuff() {
+        System.out.println("⚙️ Automating everything that moves (and even what doesn't)...");
+    }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madike10&show_icons=true&locale=en&layout=compact" alt="madike10" /></p>
+    private void buildCoolStuff() {
+        System.out.println("🚀 Building cool projects that actually solve problems...");
+    }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madike10&show_icons=true&locale=en" alt="madike10" /></p>
+    private void conquerTheDevWorld() {
+        System.out.println("👑 Future DevOps Architect loading...");
+    }
+
+    public void introduce() {
+        System.out.println("Hey 👋 I'm " + user);
+        System.out.println("Currently: " + currentWork);
+        System.out.println("Based in: " + getCity());
+        System.out.println("Hobbies: " + hobbies);
+    }
+
+    public static void main(String[] args) {
+        MadikeYade madike = new MadikeYade();
+        madike.introduce();
+        madike.ambitions();
+    }
+}
+		# Assume 10 more awesome ambitions here  ;)
+
+ ```
+ ``` terraform
+ locals {
+  user         = "Madike Yade"
+  title        = "Full-Stack Dev ⚡ DevOps Enthusiast"
+  city         = "Dakar, Senegal 🇸🇳"
+  current_work = "Building infra + writing code + breaking & fixing prod"
+
+  hobbies = [
+    "Gaming 🎮",
+    "Football ⚽",
+    "Anime Training Arc Mode 🔥",
+    "Debugging at 2AM like a warrior 🌙"
+  ]
+
+  ambitions = {
+    write_code     = true
+    automate_stuff = true
+    build_cool_app = true
+    terraform_all  = true
+    kubernetes_all = true
+  }
+}
+
+output "madike_profile" {
+  value = {
+    name        = local.user
+    role        = local.title
+    location    = local.city
+    current_job = local.current_work
+    hobbies     = local.hobbies
+    ambitions   = local.ambitions
+  }
+}
+
+output "future_state" {
+  value = "🚀 DevOps Architect from Dakar is inevitable..."
+}
+
+```
+## Current Works
+ * DevOps tool !!
+ * I'm currently working on 🔭 building **Mobile Apps using React Native** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ 
+## Other Stuff
+  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madike10&" alt="madike10" /></p>
 
+ 
