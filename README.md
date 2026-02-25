@@ -21,7 +21,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madike10&label=Profile%20views&color=0e75b6&style=flat" alt="madike10" /> </p>
-<div style="text-align: center"><h3>There are 10 types of people in the world. Those who get Binary and those who don't..</h3> </div>
+<div style="text-align: center">There are 10 types of people in the world. Those who get Binary and those who don't..</div>
 
 <br>
 
