@@ -14,6 +14,7 @@
     <img src="https://badges.pufler.dev/repos/Madike10?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
 <p align="center">
 <a href="https://github.com/Madike10"><img src="https://img.shields.io/github/followers/Madike10?style=social"></a>
 </p>
@@ -21,20 +22,22 @@
 <hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madike10&label=Profile%20views&color=0e75b6&style=flat" alt="madike10" /> </p>
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: center"><h3>There are 10 types of people in the world. Those who get Binary and those who don't..</h3> </div>
 
 <br>
 
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madike10&theme=github-dark-dimmed&custom_title=Madike%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Langages and Tools I Use :tools:
-
+## Langages and Tools I Use ⚙️
 <p align="center">
       <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=java,golang,rust,js,react,spring,angular,php,git,docker,aws,kubernetes,graphql,rabbitmq,terraform,mysql,mongodb" />
       </a>
 </p>
+
+<hr>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madike10&theme=github-dark-dimmed&custom_title=Madike%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
 
  ## Who am I?
  ```java
