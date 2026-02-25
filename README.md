@@ -19,10 +19,6 @@
 <a href="https://github.com/Madike10"><img src="https://img.shields.io/github/followers/Madike10?style=social"></a>
 </p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=madike10&label=Profile%20views&color=0e75b6&style=flat" alt="madike10" /> </p>
-<div style="text-align: center">There are 10 types of people in the world. Those who get Binary and those who don't..</div>
-
 <br>
 
 ## Langages and Tools I Use ⚙️
