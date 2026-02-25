@@ -2,25 +2,40 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-MadeKeyCode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madike-yade/)](https://www.linkedin.com/in/madike-yade/) [![Gmail Badge](https://img.shields.io/badge/-madickeyade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:madickeyade@gmail.com)](mailto:madickeyade@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madike10&label=Profile%20views&color=0e75b6&style=flat" alt="madike10" /> </p>
+<p align="center"><a href="https://x.com/madiKeyCode"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/madike-yade/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dickss_buur/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
+
+<p align=center>
+  <a href="https://github.com/Madike10">
+    <img src="https://badges.pufler.dev/visits/Madike10/Madike10?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Madike10?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Madike10?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/Madike10"><img src="https://img.shields.io/github/followers/Madike10?style=social"></a>
+</p>
+
+<hr>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=madike10&label=Profile%20views&color=0e75b6&style=flat" alt="madike10" /> </p>
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-## :computer: Technologies I Love
-* DevOps 
-* Frontend and Backend Web Development
+<br>
 
-<img src = "">
 
-## Programming Languages
- <img src = 'https://github.com/madike10/madike10/blob/main/images/golang.svg' width='30'/>  <img src = 'https://github.com/madike10/madike10/blob/main/images/html.svg' width='30'/> <img src='https://github.com/madike10/madike10/blob/main/images/java.svg' width='30'/>  <img src = 'https://github.com/madike10/madike10/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/php.svg' width='40'/>
- <img src = 'https://github.com/madike10/madike10/blob/main/images/sql.svg' width='30'/> 
- 
- ## Technologies I Use
- <img src = 'https://github.com/madike10/madike10/blob/main/images/docker.svg' width='30'/>  <img src = 'https://github.com/madike10/madike10/blob/main/images/vagrant.png' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/Kubernetes.svg' height='40'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/springboot.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/react.svg' width='33'/> <img src = 'https://github.com/madike10/madike10/blob/main/images/linux.svg' width='33'/>
- 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madike10&theme=github-dark-dimmed&custom_title=Madike%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Langages and Tools I Use :tools:
+
+<p align="center">
+      <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java,golang,rust,js,react,spring,angular,php,git,docker,aws,kubernetes,graphql,rabbitmq,terraform,mysql,mongodb" />
+      </a>
+</p>
+
  ## Who am I?
  ```java
  import java.util.List;
