@@ -1,6 +1,6 @@
 ## Hey, [Madike Yade here!](http://madike.vercel.app)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<h1 align="center">Welcome to my humble abode in the Digital World..</h1> 
 
 
 <p align="center"><a href="https://x.com/madiKeyCode"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/madike-yade/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/dickss_buur/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
